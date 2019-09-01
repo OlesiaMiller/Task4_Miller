@@ -256,7 +256,10 @@
       color: white;
     }
 
-  
+  footer {
+    text-align: center;
+
+  }
 
     .footer-ul-social {
       display: flex;
